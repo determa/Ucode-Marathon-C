@@ -1,0 +1,4 @@
+klist
+kinit
+kdestroy -A
+

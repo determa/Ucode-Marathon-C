@@ -14,5 +14,5 @@
 </p>
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=determa.Ucode-Marathon-C)
+![](https://visitor-badge.glitch.me/badge?page_id=determa.Ucode-Marathon-C.endGame)
 
